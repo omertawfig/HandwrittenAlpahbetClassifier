@@ -210,3 +210,8 @@ HandwrittenAlpahbetClassifier/
 - `logistic_regression_results.txt`: Logistic Regression F1 scores
 - `nn_results.txt`: Neural Network F1 scores and best model identifier
 - `best_model.h5`: Saved Keras model (best performing NN)
+
+## Contributers:
+- Omer Tawfig
+- Ahmed Yousif Alzain
+- Izzaldin Salah
